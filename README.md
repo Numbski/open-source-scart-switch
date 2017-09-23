@@ -9,4 +9,12 @@ Most solutions to switching across multiple scart video sources currently have a
 
 I'm looking to change that in small, incremental doses.  Starting first with a 3 port, manually switched scart box, and then working up to a 12 port auto-switching monstrosity.
 
-The cbt3244 is a well-understood bus-switching solution, so that was a no-brainer.  k-scartx-024 is a vertical mount female scart socket that is actually obtainable from mouser - I had to manually create the footprint for this, and I have 15 of them on-hand right now...so here's to hoping.  Finally, the lmh1980 purports to autodetect sync stripping needs, so we will use that to make sure we have pure csync at the destination.
+The cbt3244 is a well-understood bus-switching solution, so that was a no-brainer.  
+
+https://www.evernote.com/shard/s3/nl/229455/0e0258de-6efd-4e66-9fd4-251252936ab0/
+https://www.engadget.com/2007/03/13/how-to-make-a-solid-state-a-v-switcher/
+
+
+k-scartx-024 is a vertical mount female scart socket that is actually obtainable from mouser - I had to manually create the footprint for this, and I have 15 of them on-hand right now...so here's to hoping.
+
+Finally, the lmh1980 purports to autodetect sync stripping needs, so we will use that to make sure we have pure csync at the destination.  Ideally, we would just pass the sync line from all inputs indescriminiately at this IC, and trust it to spit out a pure csync.
