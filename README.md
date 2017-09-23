@@ -11,6 +11,7 @@ I'm looking to change that in small, incremental doses.  Starting first with a 3
 
 The cbt3244 is a well-understood bus-switching solution, so that was a no-brainer.  
 https://www.evernote.com/l/AAMOAljebv1OZp_UJRJSk2qwRQ1ttH_liSk
+
 https://www.engadget.com/2007/03/13/how-to-make-a-solid-state-a-v-switcher/
 
 
