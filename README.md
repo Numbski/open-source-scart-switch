@@ -10,8 +10,7 @@ Most solutions to switching across multiple scart video sources currently have a
 I'm looking to change that in small, incremental doses.  Starting first with a 3 port, manually switched scart box, and then working up to a 12 port auto-switching monstrosity.
 
 The cbt3244 is a well-understood bus-switching solution, so that was a no-brainer.  
-
-https://www.evernote.com/shard/s3/nl/229455/0e0258de-6efd-4e66-9fd4-251252936ab0/
+https://www.evernote.com/l/AAMOAljebv1OZp_UJRJSk2qwRQ1ttH_liSk
 https://www.engadget.com/2007/03/13/how-to-make-a-solid-state-a-v-switcher/
 
 
